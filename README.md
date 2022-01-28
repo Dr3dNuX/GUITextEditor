@@ -53,3 +53,6 @@ and the boxes title will display the file name you are working on.
 
 You can also print your files using the print function when clicked it will prompt you to select your file
 after you select your file it will immediately start printing. Example page down below.
+
+
+![printtest](https://user-images.githubusercontent.com/84602650/151618243-1655e417-b3e4-4a73-bdd5-40ae783c1751.jpeg)
