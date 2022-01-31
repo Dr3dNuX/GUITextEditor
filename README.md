@@ -22,7 +22,7 @@ print your text files NOTE: linux only.
 
 HOW TO USE THIS SOFTWARE:
 
-step one clone the repo and download the snake file 'notepad.py'
+step one clone the repo and download the file 'notepad.py'
 
 ![gitclone](https://user-images.githubusercontent.com/84602650/151616532-f05193ca-7b89-4046-bb09-29bcc45add6e.jpeg)
 
